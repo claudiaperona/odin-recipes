@@ -1,0 +1,1 @@
+In this project, in order to practise HTML, we´ll make an index with links to some recipes.
